@@ -22,7 +22,7 @@ body {
 }
 
 .background-transitions {
-  
+  background: url('./assets/zebra-pattern.png');
 }
 
 #header-content {
@@ -43,5 +43,4 @@ body {
 }
 
 #header-content span {
-  background: './assets/zebra-pattern.png';
 }
