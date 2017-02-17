@@ -41,3 +41,7 @@ body {
 .space {
   margin: 12px;
 }
+
+#header-content span {
+  background: './assets/zebra-pattern.png';
+}
