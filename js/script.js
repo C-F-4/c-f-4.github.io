@@ -1,11 +1,11 @@
 (function() {
   $(document).ready(function() {
-	  $('.smoke').funnyText({
-		  speed: 700,
+	  $('.name').funnyText({
+		  speed: 200,
 		  borderColor: 'black',
 		  activeColor: 'white',
 		  color: 'black',
-		  fontSize: '7em',
+		  fontSize: '1em',
 		  direction: 'both'
 	  });
   });
