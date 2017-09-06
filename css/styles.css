@@ -74,7 +74,7 @@ body {
 }
 
 div.profile-image {
-  height: 80px;
+  height: 120px;
 }
 
 .profile-image img {
@@ -104,5 +104,12 @@ div.profile-image {
   .float-md-left {
     float: left;
     text-align: left;
+  }
+}
+
+@media (min-width: 992px) {
+  #header-content {
+    display: flex;
+    align-items: center;
   }
 }
