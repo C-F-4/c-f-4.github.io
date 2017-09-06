@@ -10,10 +10,11 @@ html {
 }
 
 body {
-  background: #80d4ea;
-  font-family: 'Open Sans';
+  background: #80d4ea !important;
+  font-family: 'Open Sans' !important;
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 #container {
@@ -73,4 +74,29 @@ body {
       1px -1px 0 #000,
       -1px 1px 0 #000,
        1px 1px 0 #000;
+}
+
+/* Responsive */
+@media (min-width: 1200px) {
+  .float-lg-right {
+    float: right;
+    text-align: right;
+  }
+
+  .float-lg-left {
+    float: left;
+    text-align: left;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .float-md-right {
+    float: right;
+    text-align: right;
+  }
+
+  .float-md-left {
+    float: left;
+    text-align: left;
+  }
 }
