@@ -1,12 +1,12 @@
 * {
-  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
 #header-content::selection,
 #header-content::-moz-selection {
-  text-stroke: 2px #000000;
   -webkit-text-stroke: 2px #000000;
   color: #607D8B;
   -webkit-text-fill-color: white;
@@ -62,7 +62,9 @@ body {
   text-align: center;
   position: relative;
   top: 50%;
-  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 .name {
@@ -109,7 +111,11 @@ div.profile-image {
 
 @media (min-width: 992px) {
   #header-content {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    align-items: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
 }
