@@ -1,0 +1,23 @@
+{
+  "name": "c-f-4.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "mustache ./assets/view.json ./assets/template.mustache > index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-F-4/c-f-4.github.io.git"
+  },
+  "author": "Abhinav S",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/C-F-4/c-f-4.github.io/issues"
+  },
+  "homepage": "https://github.com/C-F-4/c-f-4.github.io#readme",
+  "devDependencies": {
+    "mustache": "^3.0.1"
+  }
+}
