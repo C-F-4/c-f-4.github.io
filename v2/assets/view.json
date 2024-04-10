@@ -1,0 +1,103 @@
+{
+  "fullName": "Abhinav Saxena",
+  "role": "Senior Software Engineer",
+  "pictureUrl": "assets/profile-squared.jpeg",
+  "pictureAlt": "Profile Picture",
+  "cvLink": {
+    "label": "Click to Download Resume",
+    "link": "./assets/CV - AbhinavS.pdf"
+  },
+  "socialLinks": [
+    {
+      "label": "Github Profile Link",
+      "link": "https://github.com/C-F-4",
+      "class": "fab fa-github-alt"
+    },
+    {
+      "label": "LinkedIn Profile Link",
+      "link": "https://www.linkedin.com/in/er-abhinav-saxena/",
+      "class": "fab fa-linkedin-in"
+    },
+    {
+      "label": "Email URL",
+      "link": "mailto:abhinavsaxena67@gmail.com",
+      "class": "far fa-envelope"
+    },
+    {
+      "label": "Contact Number",
+      "link": "tel:+917589005684",
+      "class": "fas fa-phone"
+    }
+  ],
+  "aboutMe": {
+    "title": "About Me",
+    "description": [
+      "I'm a MEAN/MERN developer based in India.",
+      "I'm learner of life, currently I'm improving on my Guitar skills and looking forward to my swimming lessons.",
+      "I'm a firm believer in doing-it now so I try to find balance in all aspects of life to refine on all fronts.",
+      "I'm also a travel enthusiast. My latest expedition took me to Tungnath @3690m <i class=\"fas fa-utensils\" aria-hidden=\"true\"></i>"
+    ]
+  },
+  "skillSet": [
+    {
+      "title": "Tech Skills",
+      "skills": [
+        "Javascript",
+        "Angular",
+        "React",
+        "Typescript",
+        "HTML5",
+        "CSS",
+        "SASS/SCSS",
+        "SQL",
+        "Mongo.js",
+        "Webpack"
+      ]
+    }
+  ],
+  "professionalExperience": {
+    "title": "Professional Experience",
+    "jobs": [
+      {
+        "employer": "Freshworks Technologies",
+        "roleDescription": [
+          "Collaborate closely with design, development, and product teams to develop elegant interactive interfaces for enterprise applications.",
+          "Translating UI/UX designs into prototypes, writing reusable content modules and maintainable code in accordance with best practices.",
+          "Develop, refine and participate in improving test coverage & maintain the existing infrastructure for Freshcaller and it's supporting softwares."
+        ],
+        "startDate": "April 2022",
+        "endDate": "Dec 2023"
+      },
+      {
+        "employer": "Zenith Algorithms",
+        "roleDescription": [
+          "Collaborate closely with design, development, and product teams to develop elegant interactive interfaces for enterprise applications.",
+          "Translating UI/UX designs into prototypes, writing reusable content modules and maintainable code in accordance with best practices.",
+          "Develop, refine and participate in improving test coverage & maintain the existing infrastructure for Freshcaller and it's supporting softwares."
+        ],
+        "startDate": "May 2021",
+        "endDate": "Apr 2022"
+      },
+      {
+        "employer": "Careerbuilder.com",
+        "roleDescription": [
+          "Collaborate closely with design, development, and product teams to develop elegant interactive interfaces for enterprise applications.",
+          "Translating UI/UX designs into prototypes, writing reusable content modules and maintainable code in accordance with best practices.",
+          "Develop, refine and participate in improving test coverage & maintain the existing infrastructure for Freshcaller and it's supporting softwares."
+        ],
+        "startDate": "June 2019",
+        "endDate": "Apr 2021"
+      },
+      {
+        "employer": "Novoinvent Healthcare",
+        "roleDescription": [
+          "Collaborate closely with design, development, and product teams to develop elegant interactive interfaces for enterprise applications.",
+          "Translating UI/UX designs into prototypes, writing reusable content modules and maintainable code in accordance with best practices.",
+          "Develop, refine and participate in improving test coverage & maintain the existing infrastructure for Freshcaller and it's supporting softwares."
+        ],
+        "startDate": "May 2017",
+        "endDate": "May 2019"
+      }
+    ]
+  }
+}
