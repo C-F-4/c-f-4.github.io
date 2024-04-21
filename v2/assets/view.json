@@ -19,6 +19,11 @@
       "class": "fab fa-linkedin-in"
     },
     {
+      "label": "Codepen Profile Link",
+      "link": "https://codepen.io/er-abhinav-saxena/",
+      "class": "fab fa-codepen"
+    },
+    {
       "label": "Email URL",
       "link": "mailto:abhinavsaxena67@gmail.com",
       "class": "far fa-envelope"
@@ -35,22 +40,24 @@
       "I'm a MEAN/MERN developer based in India.",
       "I'm learner of life, currently I'm improving on my Guitar skills and looking forward to my swimming lessons.",
       "I'm a firm believer in doing-it now so I try to find balance in all aspects of life to refine on all fronts.",
-      "I'm also a travel enthusiast. My latest expedition took me to Tungnath @3690m <i class=\"fas fa-utensils\" aria-hidden=\"true\"></i>"
+      "I'm also a travel enthusiast. My latest expedition took me to Tungnath at the altitude of 3690m <i class=\"fas fa-utensils\" aria-hidden=\"true\"></i>"
     ]
   },
   "skillSet": [
     {
       "title": "Tech Skills",
       "skills": [
-        "Javascript",
-        "Angular",
         "React",
+        "Angular",
         "Typescript",
-        "HTML5",
-        "CSS",
+        "Node.js/Express",
+        "Javascript",
+        "HTML5/Pug",
         "SASS/SCSS",
+        "CSS3",
         "SQL",
         "Mongo.js",
+        "SQL",
         "Webpack"
       ]
     }
@@ -71,9 +78,8 @@
       {
         "employer": "Zenith Algorithms",
         "roleDescription": [
-          "Collaborate closely with design, development, and product teams to develop elegant interactive interfaces for enterprise applications.",
-          "Translating UI/UX designs into prototypes, writing reusable content modules and maintainable code in accordance with best practices.",
-          "Develop, refine and participate in improving test coverage & maintain the existing infrastructure for Freshcaller and it's supporting softwares."
+          "Understanding BRDs to define, and create a cohesive vision of a usable solution, document the standards, and convert those into deployable products.",
+          "Develop, refine and participate in testing & delivery of innovative scalable solutions, and maintain the existing infrastructure."
         ],
         "startDate": "May 2021",
         "endDate": "Apr 2022"
@@ -81,9 +87,9 @@
       {
         "employer": "Careerbuilder.com",
         "roleDescription": [
-          "Collaborate closely with design, development, and product teams to develop elegant interactive interfaces for enterprise applications.",
-          "Translating UI/UX designs into prototypes, writing reusable content modules and maintainable code in accordance with best practices.",
-          "Develop, refine and participate in improving test coverage & maintain the existing infrastructure for Freshcaller and it's supporting softwares."
+          "Refactor, Re-design, enhance code and develop new features for existing solutions to optimize their performance and reduce the load on resources.",
+          "Analyze, design, and implement the solution to handle requests in an optimized way among various platform services and develop solutions like CVCS, TN Migration & Unification Tool, etc. to optimize and restructure the existing platforms.",
+          "Participate in Code Reviews to ensure Code Quality and Functionality."
         ],
         "startDate": "June 2019",
         "endDate": "Apr 2021"
@@ -91,9 +97,9 @@
       {
         "employer": "Novoinvent Healthcare",
         "roleDescription": [
-          "Collaborate closely with design, development, and product teams to develop elegant interactive interfaces for enterprise applications.",
-          "Translating UI/UX designs into prototypes, writing reusable content modules and maintainable code in accordance with best practices.",
-          "Develop, refine and participate in improving test coverage & maintain the existing infrastructure for Freshcaller and it's supporting softwares."
+          "End-to-end ownership of the products I work on including but not limited to Application design, development, testing, and delivery.",
+          "Conforming to industry standards for application development and Team Management.",
+          "Continuously discover, evaluate, and implement new technologies to maximize eciency and performance."
         ],
         "startDate": "May 2017",
         "endDate": "May 2019"
