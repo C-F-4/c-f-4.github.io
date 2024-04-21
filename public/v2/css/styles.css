@@ -115,6 +115,11 @@ body {
   color: white;
 }
 
+.cv-button .btn-text {
+  font-variant: small-caps;
+  margin-left: 4px;
+}
+
 .job-description p:before {
   content: '\2023';
   font-weight: 900;
